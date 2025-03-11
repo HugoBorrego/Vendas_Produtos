@@ -2,5 +2,5 @@
 
 Diagrama feito manualmente pelo lucid.app
 ![](DiagramaBD.png)
-diagrama feito pelo QuickDBD
+Diagrama feito pelo QuickDBD
 ![](DiagramaBD2.png)
